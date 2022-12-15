@@ -6,6 +6,6 @@ Featuring music and shooting sound effects.
 
 
 //////////////////////////////////////////
-note: Music might be copyrighted and used only for personal and educational reasons.
+note: Music might be copyrighted but used only for personal and educational reasons.
 -> Wear headphones for the full experience:)
 //////////////////////////////////////////
