@@ -5,7 +5,9 @@ Movement by arrow keys and shooting by spcebar key.
 Featuring music and shooting sound effects.
 
 
-//////////////////////////////////////////
+
 note: Music might be copyrighted but used only for personal and educational reasons.
 -> Wear headphones for the full experience:)
-//////////////////////////////////////////
+
+
+![image](https://user-images.githubusercontent.com/98465741/230941708-5daeb5af-a54e-4431-a37f-7efd2a949303.png)
