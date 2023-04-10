@@ -1,13 +1,8 @@
 # space-invaders-game
 
-A .NET Windows Forms application which is a much simplified clone of space invaders game. Moreover, a high scores list is kept and which is shown with the press of a button on the second form which appears by the end of each game.
-Movement by arrow keys and shooting by spcebar key.
-Featuring music and shooting sound effects.
+An .NET Windows Forms application that is a simplified clone of the Space Invaders game. The user can move their character using the arrow keys and shoot using the spacebar key. The game includes music and sound effects for shooting. At the end of each game, a second form appears showing the high scores list.
 
-
-
-note: Music might be copyrighted but used only for personal and educational reasons.
--> Wear headphones for the full experience:)
+Note: The music used in the game may be subject to copyright, but it is used only for personal and educational purposes. For the full experience, it is recommended to wear headphones:)
 
 
 ![image](https://user-images.githubusercontent.com/98465741/230941708-5daeb5af-a54e-4431-a37f-7efd2a949303.png)
